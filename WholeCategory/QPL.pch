@@ -1,0 +1,15 @@
+//
+//  QPL.pch
+//  WholeCategory
+//
+//  Created by CYT on 2017/2/27.
+//  Copyright © 2017年 CYT. All rights reserved.
+//
+
+#ifndef QPL_pch
+#define QPL_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* QPL_pch */
